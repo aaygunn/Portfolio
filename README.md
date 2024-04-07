@@ -1,7 +1,7 @@
 # Portfolyo Web Sitem
 
 Protfolyo sitemi oluşturdum. React kullanarak yazdığım sayfa responsive olarak tasarlanmıştır.
-![emreaygun.info.tr](emreaygun.info.tr) adresinden sitemi ziyaret edebilirsiniz.
+[Buradan](https://emreaygun.info.tr) sitemi ziyaret edebilirsiniz.
 
 ## Kurulum
 
